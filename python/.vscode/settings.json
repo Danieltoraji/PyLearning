@@ -1,4 +1,0 @@
-{
-    "task.problemMatchers.neverPrompt": false,
-    "python.analysis.typeCheckingMode": "off"
-}
