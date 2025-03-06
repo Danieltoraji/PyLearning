@@ -1,15 +1,6 @@
-»¶Ó­Ê¹ÓÃ£¡
-×¼±¸¹¤×÷£¨Ö»Ðè½øÐÐÒ»´Î£©£º
-1.Æô¶¯Ô¤±¸³ÌÐò
-2.¹´Ñ¡¡°Add Python to PATH¡±
-3A.Èç¹ûÄú½éÒâ½«Èí¼þ°²×°ÔÚCÅÌ£¬µã»÷Costomize installation£¬Ñ¡ÔñNext£¬ÔÚCostomize install locationÖÐ¸ü¸ÄÂ·¾¶£¬¶øºóµ¥»÷Install¡£
-3B.Èç¹ûÄú²»½éÒâ£¬¿ÉÒÔÖ±½ÓÑ¡ÔñInstall now¡£
-4.°²×°Íê³Éºó£¬¼´¿ÉÊ¹ÓÃ¡£
+æ¬¢è¿Žä½¿ç”¨ï¼
 
-Æô¶¯³ÌÐò£º
-´ò¿ª¡°Æô¶¯ÓÎÏ·¡±¼´¿É¡£
+å¯åŠ¨ç¨‹åºï¼š
+æ‰“å¼€â€œå¯åŠ¨æ¸¸æˆâ€å³å¯ã€‚
 
-²»ÔÙÊ¹ÓÃ£º
-´ò¿ªÔ¤±¸³ÌÐò£¬Ð¶ÔØÖ®¼´¿É¡£ÔÙÊ¹ÓÃÒªÖØÐÂ½øÐÐÔ¤±¸¹¤×÷¡£
-
-×÷Õß£º¶¤Ð¡´ôXiaodai. ¼¼ÒÕ²»¾«£¬´óÀÐÎðÅç£¨Ï²£©
+ä½œè€…ï¼šé’‰å°å‘†Xiaodai. æŠ€è‰ºä¸ç²¾ï¼Œå¤§ä½¬å‹¿å–·ï¼ˆå–œï¼‰
